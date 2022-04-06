@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6596DDD1-37E0-4936-AC48-5D1F325760E4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Try.Console", "src\Try.Console\Try.Console.fsproj", "{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9135AB3E-5CF6-4910-B08A-9B509FA6A5CD} = {6596DDD1-37E0-4936-AC48-5D1F325760E4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zSgY8R8O1rspwOgxqbkeg/CqD5v9FDvFXZRkHaRLAGrVCI2e653cBnJW4zcRUGLB2qaNRV1UhIeTcKS2tXSQcQ==",
+  "success": true,
+  "projectFilePath": "/home/rb/source/try/src/Try.Console/Try.Console.fsproj",
+  "expectedPackageFiles": [
+    "/home/rb/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
